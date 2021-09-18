@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AppLists</string>
+    <string name="country1">Nigeria</string>
+    <string name="country2">Kenya</string>
+    <string name="country3">Ghana</string>
+    <string name="country4">Gambia</string>
+    <string name="country5">Tanzania</string>
+    <string name="country6">Morocco</string>
+    <string name="country7">Libya</string>
+    <string name="country8">Ethiopia</string>
+    <string name="country9">Egypt</string>
+    <string name="country10">Angola</string>
+    <string name="country11">Botswana</string>
+    <string name="country12">Mozambique</string>
+    <string name="country13">Madagascar</string>
+    <string name="country14">Algeria</string>
+    <string name="country15">Cameroon</string>
+    <string name="country16">Malawi</string>
+    <string name="country17">Uganda</string>
+    <string name="country18">Benin</string>
+</resources>
